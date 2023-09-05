@@ -7,7 +7,7 @@
 
  🌱 I’m currently learning **Data Science**
 
-- ML project 1: [Employee Attrition Rate](https://github.com/sonali123123/aps-fault-detection)
+- ML project 1: [Employee Attrition Rate](https://github.com/anuj1506/empAttrition)
 
 - ML project 2: [Flight Fare Prediction](https://github.com/anuj1506/flight_fare_pred)
 
