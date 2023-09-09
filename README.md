@@ -7,11 +7,11 @@
 
  🌱 I’m currently learning **Data Science**
 
-- ML project 1: [Employee Attrition Rate](https://github.com/anuj1506/empAttrition)
+- ML project 1(End to end) : [Employee Attrition Rate](https://github.com/anuj1506/empAttrition)
 
 - ML project 2: [Flight Fare Prediction](https://github.com/anuj1506/flight_fare_pred)
 
-- ML project 3: [House Pricing](https://github.com/anuj1506/househp)
+- ML project 3(End to end) : [House Pricing](https://github.com/anuj1506/househp)
 
 
 <h3 align="left">Connect with me:</h3>
