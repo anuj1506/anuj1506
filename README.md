@@ -12,6 +12,8 @@
 - ML project 2: [Flight Fare Prediction](https://github.com/anuj1506/flight_fare_pred)
 
 - ML project 3(End to end) : [House Pricing](https://github.com/anuj1506/househp)
+  
+- Customer Churn Analysis in Power BI : [Churn Analysis](https://github.com/anuj1506/churn_powerbi)
 
 
 <h3 align="left">Connect with me:</h3>
